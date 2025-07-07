@@ -1,0 +1,8 @@
+
+streamlit
+gtts
+transformers
+torch
+whisper
+torchaudio
+Pillow
